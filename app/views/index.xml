@@ -1,0 +1,48 @@
+<Alloy>
+	<Window id="window" title="actionBar" platform="android">
+		<ActionBar title="actionBarDemo"/>
+		<Menu>
+			<MenuItem id="openNextPageMenu" title="打开下一个窗口" onClick="onOpenNextPageMenuClicked" showAsAction="Ti.Android.SHOW_AS_ACTION_ALWAYS" />
+			<MenuItem id="item1" title="打开设置" onClick="onItem1Clicked"/>
+			<MenuItem id="item2" title="退出登录" onClick="onItem2Clicked"/>
+		</Menu>
+		<Label id="label">
+			Welcome!
+		</Label>
+	</Window>
+	<NavigationWindow id="win1" platform="ios">
+		<Window id="win2" onSwipe="win2Swipe" onClick="win2Closed" title="actionBar" layout="composite" backgroundColor="pink" >
+			<LeftNavButton platform="ios">
+				<Button title="Back" onClick="onLeftbuttonClicked" />
+			</LeftNavButton>
+			<RightNavButton platform=ios>
+				<!--	<Button title="下一个窗口" onClick="onOpenNextPageClicked" /> -->
+				<Button title="快捷菜单" onClick="onRightButtonClicked" />
+			</RightNavButton>
+			<View layout="vertical" width="Ti.UI.SIZE" height="Ti.UI.SIZE" zIndex=1 >
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="WellCome" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+				<Label text="Hello" width="Ti.UI.FILL" height="Ti.UI.SIZE" textAlign="center" />
+			</View>
+			<View id="menuView" layout="vertical" width="Ti.UI.FILL" height="250" bottom="0" backgroundColor="#0f0" zIndex=10 visible=false >
+				<Button id="openNextWindow" title="打开下一个窗口" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+				<Button id="def" title="DEF" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+				<Button id="ght" title="GHT" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+				<Button id="abc1" title="ABC" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+				<Button id="def1" title="DEF" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+				<Button id="ght1" title="GHT" width="Ti.UI.FILL" height="Ti.UI.SIZE" />
+			</View>
+		</Window>
+	</NavigationWindow>
+</Alloy>

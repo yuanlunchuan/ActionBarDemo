@@ -1,0 +1,15 @@
+<Alloy>
+	<Window id="window" title="My Test App" platform="android">
+		<ActionBar id="back" title="返回" displayHomeAsUp="true" onHomeIconItemSelected="onBackClicked" />
+		<Menu>
+			<MenuItem id="item1" title="打开设置" onClick="onItem1Clicked"/>
+			<MenuItem id="item2" title="退出登录" onClick="onItem2Clicked"/>
+		</Menu>
+		<Label id="label">
+			Welcome!
+		</Label>
+	</Window>
+	<Window platform="ios" title="Red Window" backgroundColor="blue">
+		<Label text="Hello Word!!" />
+	</Window>
+</Alloy>

@@ -1,0 +1,1 @@
+/Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/Resources/iphone/alloy/controllers/index.js

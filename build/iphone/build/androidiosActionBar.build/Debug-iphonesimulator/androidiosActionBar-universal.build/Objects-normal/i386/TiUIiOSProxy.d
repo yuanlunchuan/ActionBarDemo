@@ -1,0 +1,60 @@
+dependencies: \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSProxy.m \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiBase.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiThreading.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiPublicAPI.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiEvaluator.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/KrollContext.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/KrollCallback.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/KrollObject.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiViewProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIView.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiAnimation.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiPoint.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiDimension.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiColor.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/ListenerEntry.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiModule.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUtils.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/WebFont.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiFile.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiBuffer.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiBlob.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/LayoutConstraint.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiGradient.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiRect.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiViewTemplate.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/Webcolor.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSAttributedStringProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiToolbar.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiUIiOSNavWindowProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiWindowProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiTab.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiTabGroup.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiViewController.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiAnimatorProxy.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiSnapBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiPushBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiGravityBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiAnchorAttachBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiViewAttachBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiCollisionBehavior.h \
+  /Users/chuanyuan/Documents/Titanium_Studio_Workspace/androidiosActionBar/build/iphone/Classes/TiDynamicItemBehavior.h
